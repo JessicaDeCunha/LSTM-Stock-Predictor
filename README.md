@@ -36,11 +36,11 @@ In each Jupyter Notebook, you will see the same custom LSTM RNN architecture. Th
 
 In this notebook the custom LSTM RNN uses a 10 day window of Bitcoin closing prices to predict the 11th day closing price. Model performance is shown below for both the Closing Price Model and the Greed Index Model.
 
-[!Closing Prices](https://github.com/JessicaDeCunha/LSTM-Stock-Predictor/blob/master/Images/LSTM_Stock_Predictor%20Using_Closing_Prices.png)
+![Closing Prices](https://github.com/JessicaDeCunha/LSTM-Stock-Predictor/blob/master/Images/LSTM_Stock_Predictor%20Using_Closing_Prices.png)
 
 ## LSTM Stock Predictor Using Fear and Greed Index
 
-[!Greed Index](https://github.com/JessicaDeCunha/LSTM-Stock-Predictor/blob/master/Images/LSTM_Stock_Predictor_Using_Fear_and_Greed_Index.png)
+![Greed Index](https://github.com/JessicaDeCunha/LSTM-Stock-Predictor/blob/master/Images/LSTM_Stock_Predictor_Using_Fear_and_Greed_Index.png)
 
 - - - 
 
